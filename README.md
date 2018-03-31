@@ -1,3 +1,3 @@
 # hello-world
 Ideas and +
-Lte's do it!!!
+Let's do it!!!
