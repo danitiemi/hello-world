@@ -1,3 +1,6 @@
 # hello-world
 Ideas and +
-Let's do it!!!
+Hey there!
+Welcome to Dani's World! Fuelled by coffee, chocolate, pasta, Cheetos.
+Let's code!
+
